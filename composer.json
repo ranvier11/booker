@@ -1,0 +1,15 @@
+{
+    "name": "lukasz/booker",
+    "description": "simple booking system",
+    "require": {
+        "components/jquery": "^3.2",
+        "heimrichhannot/popper.js": "^1.12",
+        "twbs/bootstrap": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "ranvier11",
+            "email": "ranvier11@gmail.com"
+        }
+    ]
+}
