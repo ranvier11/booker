@@ -5,7 +5,7 @@
         "components/jquery": "^3.2",
         "heimrichhannot/popper.js": "^1.12",
         "twbs/bootstrap": "^4.0",
-        "wenzhixin/bootstrap-table": "^1.11"
+        "fullcalendar/fullcalendar": "^3.8"
     },
     "authors": [
         {

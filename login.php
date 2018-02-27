@@ -7,7 +7,7 @@ $table = 'users';
 $email = $_POST['email'];
 $password = $_POST['password'];
 
-$result = selectUser($table, $email, $password, $pdo);
+$result = getUser($table, $email, $password, $pdo);
 
 
 if($result['email'] == $email && $result['password'] == $password){
